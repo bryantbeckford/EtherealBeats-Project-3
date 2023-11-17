@@ -1,2 +1,2 @@
-# EtherealBeats-Project-3
+# Ethereal Beats
 Future of the Music Industry 
