@@ -1,7 +1,7 @@
 # Ethereal Beats - Project 3
 
 
-![A screenshot depicts Presentation Cover Page.](Project_2_The_Neural_Nets.jpg)
+![Web 3 Metaverse Platform](Images/)
 
 
 ## Overview 
