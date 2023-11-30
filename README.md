@@ -67,6 +67,8 @@ We presented our findings on November 29, 2023 to the `Columbia Engineering FinT
 
 ## Ethereal Beats Portal Demo 
 
+![Ethereal Beat Music Portal](Images/metaverse_concert.jpeg)
+
 
 ## Manage Access Control Rules Over Music Usage
  
