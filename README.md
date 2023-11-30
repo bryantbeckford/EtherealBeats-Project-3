@@ -1,7 +1,7 @@
-a# Ethereal Beats - Project 3
+ # Ethereal Beats 
 
 
-![Web 3 Metaverse Platform](Images/metaverse concert.jpeg)
+![Web 3 Metaverse Platform](Images/metaverse_concert.jpeg)
 
 
 ## Overview 
