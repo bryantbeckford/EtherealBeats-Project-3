@@ -55,7 +55,7 @@ We presented our findings on November 29, 2023 to the `Columbia Engineering FinT
 
 ## Decentralized Governance 
 
-** The DAO in Ethereal Beats serves as a governance backbone artist and fans actively participate in decision-making, empowering the community and creating and creating a collaborative environment for shaping the platform. 
+- The DAO in Ethereal Beats serves as a governance backbone artist and fans actively participate in decision-making, empowering the community and creating and creating a collaborative environment for shaping the platform. 
 
 
 ## Machine Learning Generative AI Avatar 
