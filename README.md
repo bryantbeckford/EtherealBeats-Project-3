@@ -80,8 +80,7 @@ We used two datasets, a primary dataset consisting of the happiness measures and
 Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 
 ## Manage Access Control Rules Over Music Usage
-
-## Code and Presentation Files 
+ 
 
 ## Receive Transparent Streaming Royalties in Real Time 
 
@@ -93,7 +92,6 @@ Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 * Google Colab Jupyter Notebook 6.5.5
 
 
-
 ## Code and Presentation Files
 1. [`GitHub Project Repository`](https://github.com/boz-tcm/happiness_atlas)
     
@@ -103,6 +101,6 @@ Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 
 ## Team Information
 
-Group 3 - The Neural Nets
+Group 2 - Team Ether 
 
-**Team Members**: Nirvana Ganpat, Bryant Beckford, Todd Meier, Stephan Guillaume
+**Team Members**: Bryant Beckford, Todd Meier, Jordi Salas 
