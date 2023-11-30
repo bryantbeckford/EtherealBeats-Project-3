@@ -1,7 +1,7 @@
  # Ethereal Beats 
 
 
-![Web 3 Metaverse Platform](Images/metaverse_concert.jpeg)
+![Web 3 Metaverse Platform](Images/eth_thumbnail.png)
 
 
 ## Overview 
