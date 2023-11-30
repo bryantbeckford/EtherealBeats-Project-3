@@ -14,10 +14,10 @@ We presented our findings on November 29, 2023 to the `Columbia Engineering FinT
 
 * [Decentralized Governance](#decentralized-governance)
 * [Machine Learning Generative AI Avatar](#machine-learning-generative-ai-avatar)
-* [Mint Limited Edition Music NFTs](#mint-limited-edition-music-nfts)
-* [Manage Access Control Rules Over Music Usage](#manage-access-control-rules-over-music-usage)
+* [Ethereal Beats Portal Demo](#ethereal-beats-portal-demo)
+* [Development Environment](#development-environment)
 * [Code and Presentation Files](#code-and-presentation-files)
-* [Receive Transparent Streaming Royalties in Real Time](#receive-transparent-streaming-royalties-in-real-time)
+* [Team Information](#team-information)
 
 ## Technology Stack 
 
