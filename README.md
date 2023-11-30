@@ -62,19 +62,20 @@ We presented our findings on November 29, 2023 to the `Columbia Engineering FinT
 
 ![Machine Learning Gen AI Avatar Creator](Images/dao_member_avatar_streamlit_screenshot.png)
 
-** Through Generative AI, users, artist and fans can create a unique digital persona (avatar) for self-expression
+-Through Generative AI, users, artist and fans can create a unique digital persona (avatar) for self-expression
 
-** Avatars can attend virtual concerts on behalf of users, providing a realistic concert experience even from the comfort of their homes 
+- Avatars can attend virtual concerts on behalf of users, providing a realistic concert experience even from the comfort of their homes 
 
 
 ## Ethereal Beats Portal Demo 
 
 ![Ethereal Beat Music Portal](Images/ethereal_beats_portal.png)
 
+- Mint Limited Edition NFTS
 
-** Manage Access Control Rules Over Music Usage
+- Manage Access Control Rules Over Music Usage
 
-** Receive Transparent Streaming Royalties in Real Time 
+- Receive Transparent Streaming Royalties in Real Time 
 
 
 ### Development Environment
