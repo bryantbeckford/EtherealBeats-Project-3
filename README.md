@@ -1,23 +1,62 @@
-# `Project #2 Happiness Atlas: Finding Nirvana`
+# Ethereal Beats - Project 3
 
-The goal of this project was to use the Global Happiness Report to model happiness, as measured by the Life Ladder global survey metric, using machine learning models.
 
-## Table of Contents
+![A screenshot depicts Presentation Cover Page.](Project_2_The_Neural_Nets.jpg)
 
-* [General Information](#general-information)
-* [Findings](#findings)
-* [The Datasets](#the-datasets)
-* [Software and Technologies Used](#software-and-technologies-used)
+
+## Overview 
+
+Ethereal Beats is not just another music platform; it's a legitimate paradigm shift poised to revolutionize the music industry with its decentralized music metaverse. By leveraging blockchain, virtual reality (VR), and NFTs, Ethereal Beats addresses key challenges faced by artists and fans around the world, introducing a new era of creativity and transparency.
+ 
+
+## Features 
+
+* [Decentralized Governance](#decentralized-governance)
+* [Machine Learning Generative AI Avatar](#machine-learning-generative-ai-avatar)
+* [Mint Limited Edition Music NFTs](#mint-limited-edition-music-nfts)
+* [Manage Access Control Rules Over Music Usage](#manage-access-control-rules-over-music-usage)
 * [Code and Presentation Files](#code-and-presentation-files)
-* [Team Information](#team-information)
+* [Receive Transparent Streaming Royalties in Real Time](#receive-transparent-streaming-royalties-in-real-time)
 
-## General Information
+## Technology Stack 
+
+### Languages 
+- Solidity
+- Pyhton
+
+### Front End 
+- Streamlit
+- IPFS
+- Pinata
+
+## Libraries
+- Web3 
+- Python Replicate
+- OS
+- dotenv
+- bitarry
+- JSON
+- OppenZepplin - ERC721 (Inheritance)
+- pinata.py (custom)
+
+## Applications & Tools 
+- Ganache - Local Blockchain 
+- Goerli - Testnet 
+- MetaMask
+
+## Development Environment
+- Remix IDE
+- VScode
+- Python Version 3.10.12
+- git version 2.34.1
+- Google Colab Jupyter Notebook 6.5.5
+
+
+## Decentralized Governance 
 
 Gallup has produced an annual Global Happiness Report since 2005 that compiles surveyed measures of happiness, including the Cantril Life Ladder Index, Positive Affect, and Negative Affect, along with academically-sourced indicators of happiness, such as GDP, life expectancy at birth, perceptions of corruption, confidence in government, social support, generosity, and freedom.  We explore the power of machine learning models to predict the Cantril Life Ladder Index using these feature indicators of happiness.  We examine two supervised machine learning algorithms to create two models:
-1. Suport Vector Machine (SVM) Regression
-2. Neural Net
 
-## Findings
+## Machine Learning Generative AI Avatar 
 
 We found that the SVM explained 92% of the training variation and remained robust in testing, explaining 89% of the variation in the Life Ladder Index test dataset.  We confirmed similar levels of mean squared error (MSE) between both our SVM and Neural Net models, both in training and subsequent evaluation of test date.
 
@@ -27,7 +66,7 @@ Location: [Presentation in GitHub Repository](https://github.com/boz-tcm/happine
 
 ![A screenshot depicts Presentation Cover Page.](Project_2_The_Neural_Nets.jpg)
 
-## The Datasets
+## Mint Limited Edition Music NFTs
 
 We used two datasets, a primary dataset consisting of the happiness measures and features by country (166), and a secondary dataset to augment the primary dataset with regional identification (15 sub-regions).
 
@@ -40,7 +79,12 @@ We used two datasets, a primary dataset consisting of the happiness measures and
 
 Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 
-## Software and Technologies Used
+## Manage Access Control Rules Over Music Usage
+
+## Code and Presentation Files 
+
+## Receive Transparent Streaming Royalties in Real Time 
+
 
 ### Development Environment
 
@@ -48,16 +92,7 @@ Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 * git version 2.34.1
 * Google Colab Jupyter Notebook 6.5.5
 
-### Libaries
 
-* [Pandas](https://pandas.pydata.org/docs/)
-* [Pathlib](https://docs.python.org/3/library/pathlib.html)
-* [Numpy](https://numpy.org/doc/stable/)
-* [Matplotlib](https://matplotlib.org)
-* [hvPlot with Pandas](https://hvplot.holoviz.org)
-* [HoloViews](https://holoviews.org)
-* [TensorFlow](https://www.tensorflow.org/)
-* [sklearn](https://scikit-learn.org/stable/index.html)
 
 ## Code and Presentation Files
 1. [`GitHub Project Repository`](https://github.com/boz-tcm/happiness_atlas)
