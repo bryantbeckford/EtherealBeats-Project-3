@@ -7,7 +7,8 @@
 ## Overview 
 
 Ethereal Beats is not just another music platform; it's a legitimate paradigm shift poised to revolutionize the music industry with its decentralized music metaverse. By leveraging blockchain, virtual reality (VR), and NFTs, Ethereal Beats addresses key challenges faced by artists and fans around the world, introducing a new era of creativity and transparency.
- 
+
+We presented our findings on November 29, 2023 to the `Columbia Engineering FinTech Bootcamp 2023-06` cohort remotely via Zoom.
 
 ## Features 
 
@@ -54,30 +55,18 @@ Ethereal Beats is not just another music platform; it's a legitimate paradigm sh
 
 ## Decentralized Governance 
 
-Gallup has produced an annual Global Happiness Report since 2005 that compiles surveyed measures of happiness, including the Cantril Life Ladder Index, Positive Affect, and Negative Affect, along with academically-sourced indicators of happiness, such as GDP, life expectancy at birth, perceptions of corruption, confidence in government, social support, generosity, and freedom.  We explore the power of machine learning models to predict the Cantril Life Ladder Index using these feature indicators of happiness.  We examine two supervised machine learning algorithms to create two models:
+** The DAO in Ethereal Beats serves as a governance backbone artist and fans actively participate in decision-making, empowering the community and creating and creating a collaborative environment for shaping the platform. 
+
 
 ## Machine Learning Generative AI Avatar 
 
-We found that the SVM explained 92% of the training variation and remained robust in testing, explaining 89% of the variation in the Life Ladder Index test dataset.  We confirmed similar levels of mean squared error (MSE) between both our SVM and Neural Net models, both in training and subsequent evaluation of test date.
+** Through Generative AI, users, artist and fans can create a unique digital persona (avatar) for self-expression
 
-We presented our findings on October 5, 2023 to the `Columbia Engineering FinTech Bootcamp 2023-06` cohort remotely via Zoom.
+** Avatars can attend virtual concerts on behalf of users, providing a realistic concert experience even from the comfort of their homes 
 
-Location: [Presentation in GitHub Repository](https://github.com/boz-tcm/happiness_atlas/blob/master/Project%202_%20The%20Neural%20Nets%20.pdf) 
 
-![A screenshot depicts Presentation Cover Page.](Project_2_The_Neural_Nets.jpg)
+## Ethereal Beats Portal Demo 
 
-## Mint Limited Edition Music NFTs
-
-We used two datasets, a primary dataset consisting of the happiness measures and features by country (166), and a secondary dataset to augment the primary dataset with regional identification (15 sub-regions).
-
-1. `World Happiness Report 2005-2021 (1).csv`
-
-    (Source: [Kaggle.com](https://www.kaggle.com/datasets/jahaidulislam/world-happiness-report-2005-2021/))
-2. `continents2.csv`
-
-    (Source: [Kaggle.com](https://www.kaggle.com/datasets/andradaolteanu/country-mapping-iso-continent-region))
-
-Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 
 ## Manage Access Control Rules Over Music Usage
  
@@ -88,16 +77,21 @@ Location: [GitHub Repository](`https://github.com/boz-tcm/happiness_atlas/`)
 ### Development Environment
 
 * Python Version 3.10.12
-* git version 2.34.1
+* Git version 2.34.1
 * Google Colab Jupyter Notebook 6.5.5
 
 
 ## Code and Presentation Files
-1. [`GitHub Project Repository`](https://github.com/boz-tcm/happiness_atlas)
+1. [`GitHub Project Repository`](https://github.com/bryantbeckford/EtherealBeats-Project-3/tree/main)
     
-2. [`Jupyter Notebook Project Code`](https://github.com/boz-tcm/happiness_atlas/blob/master/Project_2_Neural_Nets.ipynb)
+2. [`Ethereal Beats Smart Contracts`](https://github.com/boz-tcm/happiness_atlas/blob/master/Project_2_Neural_Nets.ipynb](https://github.com/bryantbeckford/EtherealBeats-Project-3/tree/main/Smart%20Contracts))
     
-3. [`Project Class Presentation Slides`](https://github.com/boz-tcm/happiness_atlas/blob/master/Project%202_%20The%20Neural%20Nets%20.pdf) 
+3. [`Ethereal Beats Presentation`](https://github.com/bryantbeckford/EtherealBeats-Project-3/tree/main/Presentaton%20Deck)
+
+4. [`Ethereal Beats Compiled Smart Contract`](https://github.com/bryantbeckford/EtherealBeats-Project-3/tree/main/Compiled%20)
+
+5. [`Ethereal Beats Images`](https://github.com/bryantbeckford/EtherealBeats-Project-3/tree/main/Images0) 
+
 
 ## Team Information
 
