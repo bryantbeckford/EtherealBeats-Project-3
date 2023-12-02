@@ -62,6 +62,8 @@ We presented our findings on November 29, 2023 to the `Columbia Engineering FinT
 
 ![Machine Learning Gen AI Avatar Creator](Images/dao_member_avatar_streamlit_screenshot.png)
 
+- [`AI Avatar Streamlit Application`](Application/dao_avatar_ai.py)
+
 - Through Generative AI, users, artist and fans can create a unique digital persona (avatar) for self-expression
 
 - Avatars can attend virtual concerts on behalf of users, providing a realistic concert experience even from the comfort of their homes 
